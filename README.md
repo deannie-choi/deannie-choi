@@ -17,4 +17,4 @@ Database: MySQL
 Visualization: Tableau
 
 ## 👋🏻 Connect with Me
-**[Linkedin](https://www.linkedin.com/in/dean-choi/)**
+- **[Linkedin](https://www.linkedin.com/in/dean-choi/)**
