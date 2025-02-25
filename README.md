@@ -12,9 +12,9 @@ Data Science Master's student with expertise in machine learning, statistical an
 Welcome to my portfolio, where I showcase my **[projects](https://github.com/deannie-choi/portfolio-guide)**
 
 ## 🛠️ Tools
-Language: SQL, Python
-Database: MySQL
-Visualization: Tableau
+- Language: SQL, Python
+- Database: MySQL
+- Visualization: Tableau
 
 ## 👋🏻 Connect with Me
 - **[Linkedin](https://www.linkedin.com/in/dean-choi/)**
