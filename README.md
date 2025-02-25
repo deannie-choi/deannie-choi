@@ -8,13 +8,13 @@ Data Science Master's student with expertise in machine learning, statistical an
 - Developing interactive dashboards using **Tableau and Power BI**  
 - Building machine learning models with **Scikit-Learn and TensorFlow**  
 
-📚 Projects
+## 📚 Projects
 Welcome to my portfolio, where I showcase my **[projects](https://github.com/deannie-choi/portfolio-guide)**
 
-🛠️ Tools
+## 🛠️ Tools
 Language: SQL, Python
 Database: MySQL
 Visualization: Tableau
 
-👋🏻 Connect with Me
+## 👋🏻 Connect with Me
 **[Linkedin](https://www.linkedin.com/in/dean-choi/)**
