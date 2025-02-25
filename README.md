@@ -15,6 +15,7 @@ Welcome to my portfolio, where I showcase my **[projects](https://github.com/dea
 - Language: SQL, Python
 - Database: MySQL
 - Visualization: Tableau
+- ![Python](https://img.shields.io/badge/Python-3.9-blue)
 
 ## 👋🏻 Connect with Me
 - **[Linkedin](https://www.linkedin.com/in/dean-choi/)**
