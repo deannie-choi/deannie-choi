@@ -1,6 +1,6 @@
 # 🙋🏻‍♀️ Introducing Myself
 
-## 👋 Hello, I'm Dean Choi  
+### 👋 Hello, I'm Dean Choi  
 Data Science Master's student with expertise in machine learning, statistical analysis, and data visualization.
 
 - Querying and analyzing data using **SQL, Python, and R**  
