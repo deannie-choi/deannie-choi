@@ -19,3 +19,4 @@ Welcome to my portfolio, where I showcase my **[projects](https://github.com/dea
 
 ## 👋🏻 Connect with Me
 - **[Linkedin](https://www.linkedin.com/in/dean-choi/)**
+- **[Notion Blog](https://www.notion.so/Dean-s-Blog-1c8bab73282180aaae17cb74d20ab24c)**
